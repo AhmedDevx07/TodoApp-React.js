@@ -106,7 +106,7 @@ You can enhance this app by adding:
 
 ---
 
- ## 👨‍💻 Author
+## 👨‍💻 Author
 
 **Muhammad Ahmed (AhmedDevx07)**
 🚀 Full Stack MERN Developer
